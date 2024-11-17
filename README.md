@@ -37,10 +37,10 @@ short_description,other_column
 "ESXi host 192.168.1.2", "More data"
 
 
-License
+## License
 This script is provided under the MIT License. Feel free to modify and use it as needed for your purposes.
 
-Support
+## Support
 If you encounter any issues or have questions, feel free to open an issue in this repository.
 
 Created by Jakub Zyzanski
