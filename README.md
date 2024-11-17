@@ -1,4 +1,4 @@
-# PowerShell Script to Ping ESXi Hosts from ServiceNow
+# PowerShell Script for Pinging ESXi Hosts from ServiceNow
 
 This PowerShell script is designed to ping multiple remote ESXi hosts whose names are specified in a CSV file exported from ServiceNow. The script reads hostnames from a specific column (`short_description`) in the CSV file, checks for any hostnames that start with "ESXi host", and then pings each identified host four times. The results are logged in a file for review.
 
